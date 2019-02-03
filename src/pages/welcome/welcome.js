@@ -23,9 +23,9 @@ class Welcome extends Component {
           <h2 className="appTitle2Welcome">Welcome to my project!</h2>
           <p className="App-paraWelcome">
             For my Nerd Fest Project, I decided to research Procrastination and
-            Time Management. I have come across many intresting sources that
+            Time Management. I have come across many interesting sources that
             will help enlighten your perspective on procrastination and how it
-            affects not only your school work, but your daily life aswell. I
+            affects not only your schoolwork but your daily life as well. I
             hope you enjoy my presentation!
           </p>
           <h4 className="appPara2Welcome">
@@ -36,8 +36,8 @@ class Welcome extends Component {
         </header>
         <header className="App-headerWelcome">
           <h1>My Research Question</h1>
-          <h2>
-            Why do people procrastinate and how can better manage our time to
+          <h2 className='appQuestionWelcome'>
+            Why do people procrastinate and how can we better manage our time to
             prevent procrastination?
           </h2>
         </header>

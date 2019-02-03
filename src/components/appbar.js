@@ -23,7 +23,12 @@ const NavBar = () => (
     iconClassNameRight="muidocs-icon-navigation-expand-more"
   >
     <Tabs style={styles.tabs}>
-      <Tab label="PROCRASTINATION/TIME MANAGEMENT" />
+      <Tab
+        label="PROCRASTINATION/TIME MANAGEMENT"
+        onClick={() => {
+          window.location.replace("/");
+        }}
+      />
       <Typography type="title" color="inherit" style={{ flex: 1 }} />
       <Tab
         label="WELCOME!"
@@ -37,9 +42,18 @@ const NavBar = () => (
           window.location.replace("/research");
         }}
       />
-      <Tab label="ANALYSIS" />
-      <Tab label="CONCLUSION" />
-      <Tab label="BIBLIOGRAPHY" />
+      <Tab
+        label="CONCLUSION"
+        onClick={() => {
+          window.location.replace("/conclusion");
+        }}
+      />
+      <Tab
+        label="BIBLIOGRAPHY"
+        onClick={() => {
+          window.location.replace("/bibliography");
+        }}
+      />
     </Tabs>
   </AppBar>
 );

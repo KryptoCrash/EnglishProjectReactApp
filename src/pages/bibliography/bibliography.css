@@ -1,0 +1,103 @@
+.AppBibliography {
+    text-align: center;
+  }
+  
+  .App-logoBibliography {
+    animation: App-logo-spin infinite 20s linear;
+    height: 40vmin;
+  }
+  
+  .App-headerBibliography {
+    background-color: #b47cce;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .App-header2Bibliography {
+    background-color: #4344a5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  .App-subtitleBibliography {
+    font-size: 30px;
+    justify-content: center;
+    margin-top: -13%;
+  }
+  .App-paraBibliography {
+    text-align: justify;
+    padding: 5%;
+    padding-left: 10%;
+    word-wrap: break-word;
+    width: 80%;
+    font-size: 120%;
+    color: white;
+    font-weight: bold;
+  }
+  .App-header3Bibliography {
+    background-color: #72dac0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  .App-header4Bibliography {
+    background-color: #7289da;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  .App-header5Bibliography {
+    background-color: #da7272;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }
+  .image1Bibliography {
+    width: 35%;
+    height: auto;
+    color: white;
+    position: relative;
+    padding-bottom: 25%;
+    padding-left: 73.2%;
+    margin: -20%;
+  }
+  .appPara2Bibliography {
+  
+    text-align: center;
+    padding-left: 55%;
+    padding-bottom: 15%;
+    word-wrap: break-word;
+    width: 30%;
+    font-size: 140%;
+    color: white;
+    position: absolute;
+  }
+  .appTitle2Bibliography {
+    font-size: 200%;
+    text-align: center;
+    position: relative;
+    color: whitesmoke;
+  }
+  .sourceBibliography {
+    font-size: 40%;
+    padding-bottom: 15%;
+  }
+  .App-titleBibliography {
+    font-size: 600%;
+  }
+  .App-linkBibliography {
+    color: #61dafb;
+  }
+  

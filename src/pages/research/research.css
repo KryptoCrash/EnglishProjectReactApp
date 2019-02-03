@@ -1,13 +1,13 @@
-.App {
+.AppResearch {
     text-align: center;
   }
   
-  .App-logo {
+  .App-logoResearch {
     animation: App-logo-spin infinite 20s linear;
     height: 40vmin;
   }
   
-  .App-header {
+  .App-headerResearch {
     background-color: #7289da;
     min-height: 100vh;
     display: flex;
@@ -17,8 +17,34 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
-  .App-header2 {
-    background-color: #9658a8;
+  .App-header3Research {
+    background-color: #7289da;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .App-para2Research {
+    text-align: justify;
+    padding-left: 5%;
+    word-wrap: break-word;
+    width: 90%;
+    font-size: 120%;
+    color: white;
+  }
+  .App-para3Research {
+    text-align: justify;
+    padding-left: 5%;
+    word-wrap: break-word;
+    width: 40%;
+    font-size: 100%;
+    color: white;
+  }
+  .App-header2Research {
+    background-color: rgb(218, 114, 114);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -27,62 +53,80 @@
     width: 100%;
     height: auto;
   }
-  .App-subtitle {
+  .App-subtitleResearch {
     font-size: 30px;
     justify-content: center;
     margin-top: -3%;
   }
-  .App-para {
+  .App-paraResearch {
     text-align: left;
-    padding-left: 10%;
+    padding-left: 5%;
     padding-bottom: 8%;
     word-wrap: break-word;
-    width: 30%;
+    width: 50%;
     font-size: 120%;
     color: #e2eeff;
   }
-  .image1 {
-    width: 35%;
-    height: auto;
-    color: white;
-    position: relative;
-    padding-bottom: 25%;
-    padding-left: 73.2%;
-    margin: -20%;
+  .imageResearch {
+    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
-  .appPara2 {
+  .image1Research {
+    width: 80%;
+    height: auto;
+    position: relative;
+    padding: 5%;
+    align-self: center;
+  }
+  .appPara2Research {
   
-    text-align: center;
+    text-align: justify;
     padding-left: 55%;
-    padding-bottom: 15%;
+    margin-top: 8.65%;
     word-wrap: break-word;
-    width: 30%;
-    font-size: 140%;
-    color: #e2eeff;
+    width: 40%;
+    font-size: 100%;
+    color: #ffffff;
     position: absolute;
   }
-  .appTitle2 {
+  .appTitle2Research {
     font-size: 200%;
     text-align: center;
     position: relative;
-    color: #e2eeff;
+    color: #ffffff;
   }
-  .source {
+
+  .listResearch {
+    font-weight: bold;
+    font-size: 140%;
+    text-align: left;
+  }
+  .listItemResearch {
+    padding: 5%;
+    word-wrap: none;
+    width: 140%;
+  }
+  .appTitle3Research {
+    font-size: 200%;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+  }
+  .sourceResearch {
     font-size: 40%
   }
-  .App-title {
+  .App-titleResearch {
     font-size: 500%;
   }
-  .App-link {
+  .App-linkResearch {
     color: #61dafb;
   }
   
   
-  @keyframes App-logo-spin {
-    from {
+  @keyframes App-logo-spinResearch {
+    fromResearch {
       transform: rotate(0deg);
     }
-    to {
+    toResearch {
       transform: rotate(360deg);
     }
   }
