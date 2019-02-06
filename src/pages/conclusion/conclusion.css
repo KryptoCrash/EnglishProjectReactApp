@@ -42,6 +42,16 @@
     color: white;
     text-indent: 3%;
   }
+  .App-paraLConclusion {
+    text-align: justify;
+    word-wrap: break-word;
+    padding-left: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+    font-size: 120%;
+    color: white;
+    text-indent: 3%;
+  }
   .image1Conclusion {
     width: 35%;
     height: auto;

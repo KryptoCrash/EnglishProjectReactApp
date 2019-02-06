@@ -61,7 +61,7 @@ class Conclusion extends Component {
             in psychology. Another way I determined whether a scientific journal
             was reputable was by checking the number of articles that cited it.
             Overall, I learned ways to help improve my issue with
-            procrastination through my research process.<br/><br/></p><p className="App-paraConclusion"> After looking through
+            procrastination through my research process.<br/><br/></p><p className="App-paraLConclusion"> After looking through
             my research I have come to the conclusion that some people
             procrastinate because of the lack of a genetic trait responsible for
             goal management. Another reason for procrastination is that people
