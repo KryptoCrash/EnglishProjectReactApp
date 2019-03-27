@@ -13,7 +13,7 @@ class Welcome extends Component {
           <h1 className="App-titleWelcome">
             <Intro message="PROCRASTINATION AND TIME MANAGEMENT" />
           </h1>
-          <h4 className="App-subtitleWelcome">A Presentation by Eric Yachbes</h4>
+          <h4 className="App-subtitleWelcome">A Presentation by me!</h4>
           <p className="sourceWelcome">
             This presentation was coded with the React.js and Material-UI
             Frameworks
